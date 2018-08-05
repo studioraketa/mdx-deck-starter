@@ -1,0 +1,15 @@
+{
+  "name": "raketa-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Studio Raketa",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "pdf": "mdx-deck pdf deck.mdx"
+  },
+  "dependencies": {
+    "mdx-deck": "^1.5.4"
+  }
+}
