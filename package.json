@@ -10,6 +10,6 @@
     "pdf": "mdx-deck pdf deck.mdx"
   },
   "dependencies": {
-    "mdx-deck": "^1.5.10"
+    "mdx-deck": "^1.6.3"
   }
 }
